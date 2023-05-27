@@ -5,7 +5,7 @@ import com.rakib.Composeui.R
 object DataDummy {
     val product = Product(
         1,
-        "Nike Air Max 200",
+        "Nike Air Max 100",
         240.00,
         100,
         R.drawable.shooe_tilt_1,
