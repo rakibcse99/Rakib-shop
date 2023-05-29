@@ -7,7 +7,7 @@ object DataDummy {
         1,
         "Nike Air Max 100",
         240.00,
-        100,
+        110,
         R.drawable.shooe_tilt_1,
         "Trending Now"
 

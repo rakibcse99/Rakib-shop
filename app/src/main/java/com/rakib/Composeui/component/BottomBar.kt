@@ -21,6 +21,8 @@ import com.rakib.Composeui.ui.theme.white
 @Preview(showBackground = true)
 @Composable
 fun BottomBar() {
+
+ //   icon function  and  modifie
     BottomAppBar(
             backgroundColor = white,
             elevation = 0.dp
